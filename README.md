@@ -4,8 +4,7 @@ This is (will be) a starter pack for creating web app using React + Stylus + web
 
 ### Todos
 
-[]Update react version
-
-[]Update webpack config to fix stylint.(Not working for some reason..)
+- [ ] Update react version
+- [ ] Fix stylint (Doesn't recognize .stylintrc)
 
 and more..
